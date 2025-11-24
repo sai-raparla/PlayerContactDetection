@@ -1,3 +1,2 @@
-# Jane-Street-Market-Forecasting
+# Player Contact Detection
 
-[Kaggle Competition Link](https://www.kaggle.com/competitions/jane-street-real-time-market-data-forecasting)
